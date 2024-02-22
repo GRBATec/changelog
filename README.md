@@ -1,2 +1,2 @@
 # changelog
-Veränderungen/ Neuerungen (ab dem 22.02.2024)
+Veränderungen/ Neuerungen (ab dem 01.01.2024)
